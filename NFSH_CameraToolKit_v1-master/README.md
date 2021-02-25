@@ -1,2 +1,3 @@
 # Need For Speed:Heat - Cinematic camera thingy
-Compile it yourself if you can, and run the program as administrator
+Compile the .csproj file yourself if you can, and run the program as administrator for it to work. 
+You can modify the source code for whatever reasons
